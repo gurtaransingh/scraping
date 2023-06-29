@@ -9,3 +9,9 @@
 **Star and fork this repository for future help**
 
 _**For any queries  :  <a href="https://Wa.me/+919316501336">Link</a>**_
+
+**Projects/opportunities for future**
+1.  **Share Predictor:**  Live share/stock market graph data scraping, implimenting basic machine learning models and then making a web application telling me probability to buy a particular share or not, or suggeting me the right time to buy or sell.
+2.  **Handwriting Recogniser:**  Train your own OCR model to read handwritings in different languages like English, Hindi, Punjabi etc. Try cursive text, doctor's handwriting, any bill which has something handwritten on it.
+3.  **Your Own Google Lens:**  Merge many ocr models to extract text, qr codes, images. Compare the scraped data together. Search the most repeated words or images on backend and show most relavent searches.
+4.  
