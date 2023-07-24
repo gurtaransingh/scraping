@@ -15,4 +15,4 @@ _**For any queries  :  <a href="https://Wa.me/+919316501336">Link</a>**_
 2.  **Handwriting Recogniser:**  Train your own OCR model to read handwritings in different languages like English, Hindi, Punjabi etc. Try cursive text, doctor's handwriting, any bill which has something handwritten on it.
 3.  **Your Own Google Lens:**  Merge many ocr models to extract text, qr codes, images. Compare the scraped data together. Search the most repeated words or images on backend and show most relavent searches.
 4.  **Kaggle Dataset Master:**  Scrape different websites, get relavent filtered information, upload datasets on kaggle like platform. Ask your friends to upvote you, add comments on dataset. If dataset is good and big upto 10k entries ask RANA SIR to host a kaggle competition with your dataset.
-5.  **Cold Emailing:**  Write a code - just put a url, and scrape all email ids. And automatically cold email them. Use filter like hr@company.com
+5.  **Cold Emailing:**  Write a code - just put a url, and scrape all email IDs. And automatically cold email them. Use filter like hr@company.com 
